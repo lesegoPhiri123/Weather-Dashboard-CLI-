@@ -1,0 +1,1 @@
+rootProject.name = "Weather-Dashboard-CLI-"
